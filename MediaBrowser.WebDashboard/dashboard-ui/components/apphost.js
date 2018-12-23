@@ -160,7 +160,7 @@ define(["appSettings", "browser", "events", "htmlMediaHelper"], function(appSett
                 return deviceId
             },
             appName: function() {
-                return "Jellyfin Web"
+                return "Jellyfin Web UI"
             },
             appVersion: function() {
                 return appVersion
